@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #808d92;
+}
+.container{
+    position: relative;
+    height: 90px;
+    width: 100%;
+}
+
+#cavalo{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    margin-top: 0;
+    margin-left: 30px;
+}
+#ouca{
+    margin-left: 80em;
+    
+}
+#grama{
+    width: 150px;
+    height: 10px;
+    margin-top: 67px;
+    margin-left: 70px;
+    border-radius: 15px;
+}
+.container h1{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 80px;
+    font-weight: initial;
+}
+.centro{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+#foto{
+    position: absolute;
+    background-size: cover;
+    width: 100%;
+
+}
+.audio{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 12%;
+    align-items: center;
+}
+.btn{
+    position: relative;
+    width: 40px;
+    padding: 10px;
+    top: 100%;
+    transform: translateY(-80%);
+    align-items: center;
+}
+#george{
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-left: px;
+}
